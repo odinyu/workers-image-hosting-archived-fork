@@ -1,0 +1,10 @@
+name = "img"
+main = "./src/index.js"
+compatibility_date = "2022-11-08"
+
+kv_namespaces = [
+  { binding = "img", id = "fa58823286494183a2b215e252226e0b" },
+  { binding = "LINK", id = "fa58823286494183a2b215e252226e0b" }
+]
+[site]
+bucket = "./static/dist"
